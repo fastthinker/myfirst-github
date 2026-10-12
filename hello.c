@@ -7,4 +7,6 @@ int main(){
 
     /*New work*/
     printf("New feature added");
+
+    Printf("This is new feature from pramod");
 }
