@@ -1,4 +1,5 @@
 #include<stdio.h>
 int main(){
-    printf("My First github program using C.")
+    printf("My First github program using C.");
+    print("New changes")
 }
