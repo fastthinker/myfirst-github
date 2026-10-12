@@ -11,3 +11,5 @@ int main(){
     Printf("This is new feature from pramod");
 
     hello
+    test
+}
