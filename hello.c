@@ -1,8 +1,8 @@
 #include<stdio.h>
 int main(){
     printf("My First github program using C.");
-    print("New changes");
-    print("This is manish work");
+    printf("New changes");
+    printf("This is manish work");
     printf("This is new commit");
 
     /*New work*/
@@ -12,4 +12,5 @@ int main(){
 
     hello
     test
+    return 0;
 }
