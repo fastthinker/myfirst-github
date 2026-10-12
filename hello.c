@@ -9,4 +9,5 @@ int main(){
     printf("New feature added");
 
     Printf("This is new feature from pramod");
-}
+
+    hello
